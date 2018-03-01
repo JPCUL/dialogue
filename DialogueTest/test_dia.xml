@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dialogue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nodes>
+    <DialogueNode>
+      <NodeID>0</NodeID>
+      <Text>Hello, this is Test Dialogue Node 1</Text>
+      <Options>
+        <DialogueOption>
+          <Text>Go to Node 2 from Node 1</Text>
+          <DestinationNodeID>1</DestinationNodeID>
+        </DialogueOption>
+      </Options>
+    </DialogueNode>
+    <DialogueNode>
+      <NodeID>1</NodeID>
+      <Text>Hello, this is Test Dialogue Node 2</Text>
+      <Options>
+        <DialogueOption>
+          <Text>Exit dialogue</Text>
+          <DestinationNodeID>-1</DestinationNodeID>
+        </DialogueOption>
+        <DialogueOption>
+          <Text>Go to Node 3 from Node 2</Text>
+          <DestinationNodeID>2</DestinationNodeID>
+        </DialogueOption>
+        <DialogueOption>
+          <Text>Go to Node 1 from Node 2</Text>
+          <DestinationNodeID>0</DestinationNodeID>
+        </DialogueOption>
+        <DialogueOption>
+          <Text>Go to Node 3 from Node 2</Text>
+          <DestinationNodeID>2</DestinationNodeID>
+        </DialogueOption>
+      </Options>
+    </DialogueNode>
+    <DialogueNode>
+      <NodeID>2</NodeID>
+      <Text>Hello, this is Test Dialogue Node 3</Text>
+      <Options>
+        <DialogueOption>
+          <Text>Go to Node 4 from Node 3</Text>
+          <DestinationNodeID>3</DestinationNodeID>
+        </DialogueOption>
+      </Options>
+    </DialogueNode>
+    <DialogueNode>
+      <NodeID>3</NodeID>
+      <Text>Hello, this is Test Dialogue Node 4</Text>
+      <Options>
+        <DialogueOption>
+          <Text>Exit dialogue</Text>
+          <DestinationNodeID>-1</DestinationNodeID>
+        </DialogueOption>
+      </Options>
+    </DialogueNode>
+  </Nodes>
+</Dialogue>

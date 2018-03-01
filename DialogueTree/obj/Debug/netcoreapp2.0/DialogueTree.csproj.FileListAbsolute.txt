@@ -1,0 +1,9 @@
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTree\obj\Debug\netcoreapp2.0\DialogueTree.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTree\obj\Debug\netcoreapp2.0\DialogueTree.csproj.CoreCompileInputs.cache
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTree\obj\Debug\netcoreapp2.0\DialogueTree.AssemblyInfoInputs.cache
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTree\obj\Debug\netcoreapp2.0\DialogueTree.AssemblyInfo.cs
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTree\bin\Debug\netcoreapp2.0\DialogueTree.deps.json
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTree\bin\Debug\netcoreapp2.0\DialogueTree.dll
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTree\bin\Debug\netcoreapp2.0\DialogueTree.pdb
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTree\obj\Debug\netcoreapp2.0\DialogueTree.dll
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTree\obj\Debug\netcoreapp2.0\DialogueTree.pdb

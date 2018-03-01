@@ -1,0 +1,13 @@
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\obj\Debug\netcoreapp2.0\DialogueTest.csproj.CoreCompileInputs.cache
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\obj\Debug\netcoreapp2.0\DialogueTest.AssemblyInfoInputs.cache
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\obj\Debug\netcoreapp2.0\DialogueTest.AssemblyInfo.cs
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\bin\Debug\netcoreapp2.0\DialogueTest.deps.json
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\bin\Debug\netcoreapp2.0\DialogueTest.runtimeconfig.json
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\bin\Debug\netcoreapp2.0\DialogueTest.runtimeconfig.dev.json
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\bin\Debug\netcoreapp2.0\DialogueTest.dll
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\bin\Debug\netcoreapp2.0\DialogueTest.pdb
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\bin\Debug\netcoreapp2.0\DialogueTree.dll
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\bin\Debug\netcoreapp2.0\DialogueTree.pdb
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\obj\Debug\netcoreapp2.0\DialogueTest.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\obj\Debug\netcoreapp2.0\DialogueTest.dll
+c:\users\james\documents\visual studio 2017\Projects\DialogueTree\DialogueTest\obj\Debug\netcoreapp2.0\DialogueTest.pdb
